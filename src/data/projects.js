@@ -32,9 +32,9 @@ export const projects = [
   {
     name: 'Netflix Clone',
     category: 'Frontend',
-    description: 'A Pokémon Trading Card Game inventory concept for managing a card collection.',
-    details: 'A PHP and MySQL web project concept focused on collection management, account pages, and card discovery using the JustTCG API. Replace this summary with the exact features you have completed.',
-    tech: ['PHP', 'MySQL', 'JavaScript', 'API'],
+    description: 'A simple react frontend based on Netflix UI',
+    details: 'A simple react project recreating Netflix UI inorder to learn the react framework',
+    tech: ['React'],
     accent: 'orange',
     image: '/images/netflix.png',
     link: 'https://github.com/Pteraaaaz/NetflixUIClone'
